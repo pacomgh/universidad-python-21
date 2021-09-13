@@ -12,4 +12,4 @@ else:
 if dentroDeRango:
     print("El valor esta dentro del rango")
 else:
-    print("El valor esta fuera del rango")
+    print("El valor esta fuera del rango") 
